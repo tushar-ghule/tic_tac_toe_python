@@ -1,7 +1,7 @@
 # tic_tac_toe_python
 The game of Tic Tac Toe using Object Oriented Programming - Python 
 
-
+```
 class Board():
   ''' 
   rows, cols = (5, 5)
@@ -131,3 +131,4 @@ class Game():
 
 game = Game()
 game.main()
+```
